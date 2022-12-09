@@ -32,3 +32,8 @@ https://github.com/partizan91/rsschool-cv.git
 **Education**
 ***
 - higher
+
+**Languages**
+***
+Russian - native speaker.
+English - A1 (A2 in process…)
